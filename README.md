@@ -34,3 +34,15 @@ leetcode-solutions/
     ├── 0001-two-sum/
     ├── 0412-fizz-buzz/
     └── 1480-running-sum-of-1d-array/
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1672-richest-customer-wealth](https://github.com/KhaleelxRahman/leetcode-solutions/tree/main/1672-richest-customer-wealth/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1672-richest-customer-wealth](https://github.com/KhaleelxRahman/leetcode-solutions/tree/main/1672-richest-customer-wealth/) | Easy |
+<!---LeetCode Topics End-->
