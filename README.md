@@ -46,4 +46,12 @@ leetcode-solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/KhaleelxRahman/leetcode-solutions/tree/main/1672-richest-customer-wealth/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/KhaleelxRahman/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/KhaleelxRahman/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
