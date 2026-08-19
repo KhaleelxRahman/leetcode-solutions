@@ -40,6 +40,7 @@ leetcode-solutions/
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/KhaleelxRahman/leetcode-solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/KhaleelxRahman/leetcode-solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
